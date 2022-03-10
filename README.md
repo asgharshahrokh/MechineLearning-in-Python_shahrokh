@@ -2,4 +2,5 @@
 
 this page is for exercises mechine Learning with python.
 
-author : asghar shahrokh
+author:
+asghar shahrokh.
